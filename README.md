@@ -1,8 +1,8 @@
 # ELEC 391 Final Project
 
-TOP LEVEL FILE: textsys.v
-TOP LEVEL MODULE: sys
-PROGRAMMING/SOF FILE: /output_files/sys.sof
+- TOP LEVEL FILE: textsys.v
+- TOP LEVEL MODULE: sys
+- PROGRAMMING/SOF FILE: /output_files/sys.sof
 
 ## Module descriptions 
 - txrx: Transmission and receiver modules
