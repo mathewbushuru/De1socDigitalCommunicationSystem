@@ -1,0 +1,517 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -9.473
+TNS   : -161.291
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -9.266
+TNS   : -155.157
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -5.321
+TNS   : -68.418
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -5.099
+TNS   : -64.690
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -5.082
+TNS   : -91.976
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -4.855
+TNS   : -67.949
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -4.763
+TNS   : -63.986
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -4.617
+TNS   : -86.942
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -3.840
+TNS   : -1693.007
+
+Type  : Slow 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -1.811
+TNS   : -4.812
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -0.153
+TNS   : -1.749
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.264
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 0.646
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 2.827
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 3.296
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -1226.274
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -30.574
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -27.680
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -23.799
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -20.759
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -19.411
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -15.460
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -12.294
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -10.233
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -2.043
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.418
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -9.822
+TNS   : -166.512
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -9.630
+TNS   : -160.970
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -5.376
+TNS   : -65.671
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -5.189
+TNS   : -61.612
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -5.182
+TNS   : -87.011
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -4.938
+TNS   : -66.766
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -4.867
+TNS   : -63.152
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -4.712
+TNS   : -82.689
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -3.888
+TNS   : -1628.950
+
+Type  : Slow 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -2.005
+TNS   : -5.469
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.478
+TNS   : -23.692
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.493
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 0.898
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 3.018
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 3.396
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -1281.443
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -30.248
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -27.019
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -23.259
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -20.655
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.394
+TNS   : -19.361
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.394
+TNS   : -15.346
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -11.898
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -10.736
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.394
+TNS   : -2.110
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.444
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -5.033
+TNS   : -84.944
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -4.913
+TNS   : -81.978
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.759
+TNS   : -31.050
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.662
+TNS   : -28.561
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.622
+TNS   : -39.055
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.497
+TNS   : -28.546
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.405
+TNS   : -26.326
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.354
+TNS   : -37.435
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -1.959
+TNS   : -684.130
+
+Type  : Fast 1100mV 85C Model Setup 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.613
+TNS   : -1.550
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -0.230
+TNS   : -5.732
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.115
+TNS   : -1.917
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.007
+TNS   : -0.064
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 0.071
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 1.354
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 1.597
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -665.041
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.139
+TNS   : -0.332
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.102
+TNS   : -2.476
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.089
+TNS   : -3.009
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.054
+TNS   : -0.963
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.043
+TNS   : -1.062
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.027
+TNS   : -0.443
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.023
+TNS   : -0.197
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.006
+TNS   : -0.084
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.161
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -4.766
+TNS   : -79.986
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -4.697
+TNS   : -78.261
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.608
+TNS   : -26.490
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.526
+TNS   : -24.977
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.504
+TNS   : -33.376
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.370
+TNS   : -25.031
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -2.301
+TNS   : -23.020
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -2.253
+TNS   : -31.954
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -1.796
+TNS   : -552.011
+
+Type  : Fast 1100mV 0C Model Setup 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.698
+TNS   : -1.862
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.448
+TNS   : -22.581
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.159
+TNS   : -2.714
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.061
+TNS   : -0.623
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 0.222
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 1.379
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 1.566
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -665.309
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.093
+TNS   : -0.239
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.040
+TNS   : -0.821
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : -0.037
+TNS   : -1.096
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:left_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : -0.005
+TNS   : -0.063
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : -0.001
+TNS   : -0.009
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_demod:demod|Modulation_CarrierWave:Carrier|clk_25'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_CarrierWave:CARRIER_GEN|clk_25'
+Slack : 0.012
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys:right_audio|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'sub_sys_text:text|bpsk_mod:mod|Modulation_DataPacker:BPSK_DataPack|Modulation_CarrierWave:CLK|clk_25'
+Slack : 0.083
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.150
+TNS   : 0.000
+
+------------------------------------------------------------

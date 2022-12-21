@@ -1,0 +1,11 @@
+v3.qpf
+sys.qsf.bak
+sys_nativelink_simulation.rpt
+sys_description.txt
+PLLJ_PLLSPE_INFO.txt
+info.txt
+simulation/
+c5_pin_model_dump.txt
+incremental_db
+greybox_tmp
+db
